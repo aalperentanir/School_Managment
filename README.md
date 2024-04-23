@@ -34,10 +34,6 @@ This project is a School Management System developed using Angular for the front
 3. Use the respective dashboards to perform the necessary tasks based on your role.
 
 
-
-## License
-[Specify your license here]
-
 ## Acknowledgements
 - This project was inspired by the need for efficient school management systems.
 - We thank the Angular and Spring Boot communities for their excellent documentation and support.
