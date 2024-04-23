@@ -43,6 +43,6 @@ This project is a School Management System developed using Angular for the front
 - We thank the Angular and Spring Boot communities for their excellent documentation and support.
 
 ## Contact
-For any inquiries or issues regarding the project, please contact [your_email@example.com].
+For any inquiries or issues regarding the project, please contact [alialperentanir@gmail.com].
 
 
